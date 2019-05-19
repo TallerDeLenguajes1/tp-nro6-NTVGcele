@@ -1,0 +1,17 @@
+# tp-nro6-NTVGcele
+tp-nro6-NTVGcele created by GitHub Classroom
+PUNTO 4:
+¿String es una tipo por valor o un tipo por referencia?
+ES DE UN TIPO POR REFERENCIA
+¿Qué secuencias de escape tiene el tipo string?
+NO TIENE SECUENCIA DE ESCAPE
+¿Qué sucede cuando utiliza el carácter @ antes de una cadena de texto?
+EVITA O ACEPTA CARACTERES ESPECIALES
+PRUNTO 5:
+¿Funcionan únicamente en C#?
+NO, TAMBIEN FUNCIONA EN JAVASCRIP, PHP, ETC.
+¿En qué casos le parecen útiles? Enuncie al menos 
+COMPARAR
+COMPRUEBA SI LA CADENA ES NUMERICA
+PARA COMBRAR SI LA CADENA COMIENZA CON MAYUSCULA Y EL RESTO MINUSCULA
+¿Cómo se hace uso de estas en C#?
